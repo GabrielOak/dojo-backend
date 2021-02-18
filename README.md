@@ -54,7 +54,7 @@ No arquivo **package.json**, adicione o script para executar o projeto usando o 
 ``` javascript
 
 "scripts": {
-    "start": "nodemon src/index.js"
+    "start": "nodemon index.js"
   }
 
 ```
